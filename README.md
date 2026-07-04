@@ -22,5 +22,11 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Lesson: need a backup plan for low-connectivity days
 
 ### Day 3 — 4th July 2026
-- Continued Module 1 from where I left off
-- Taking time to understand concepts in depth rather than rushing through
+- Continued Module 1 from where I left off.
+- Completed Module 1 of AWS Cloud Practitioner Essentials.
+- Took extra time to build deep understanding rather than rushing through
+- Home wifi was unreliable this week, but kept showing up daily anyway
+
+### Day 4 - 5th July 2026
+
+- 
