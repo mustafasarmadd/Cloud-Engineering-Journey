@@ -28,5 +28,7 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Home wifi was unreliable this week, but kept showing up daily anyway
 
 ### Day 4 - 5th July 2026
+- Started Module 2 - Compute in the cloud
 
-- 
+### Day 5 - 6th July 2026
+- Continued Module 2 from where I left off.
