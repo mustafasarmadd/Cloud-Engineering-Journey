@@ -29,6 +29,12 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 ### Day 4 - 5th July 2026
 - Started Module 2 - Compute in the cloud
+- Completed Lesson 1
+- Learned about how EC2 Instance is created and it's benefits
+
+### Day 5 - 6th July 2026
+- Continuing from where I left off
+- 
 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
