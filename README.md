@@ -34,7 +34,8 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 ### Day 5 - 6th July 2026
 - Continuing from where I left off
-- 
+- Completed Module 2
+- Learned about how Amazon EC2 works and also learned about Amazon EC2 Instance types 
 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
