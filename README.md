@@ -34,8 +34,11 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 ### Day 5 - 6th July 2026
 - Continuing from where I left off
-- Completed Module 2
+- Completed Lesson 2 and 3
 - Learned about how Amazon EC2 works and also learned about Amazon EC2 Instance types 
+- Learned about How to provison AWS resources, also learned about 3 ways we can call AWS APIs and these were AWS Management Console, AWS CLI and AWS SDK.
 
+### Day 6 - 7th July 2026
+- 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
