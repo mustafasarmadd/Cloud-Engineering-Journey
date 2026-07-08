@@ -43,6 +43,12 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - I also Learned about Amazon EC2 Pricing, Purchase Options and Cost optimization.
 
 ### Day 7 - 8th July 2026
+- Completed Lesson 6
+- Learned about Scaling Amazon EC2, got to know about Scalibility and Elasticity, Learned how to scale and when to scale as demand increases or decreases with an example.
+- Learned types of scaling, there are 3, scale up, scale in, and scale out.
+- Learned about Auto Scaling and how to configure it.
+
+### Day 8 - 9th July 2026
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
