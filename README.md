@@ -11,10 +11,9 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 ## Progress Log
 
 ### Day 1 — 2nd July 2026
-- Created AWS account, set up billing/budget alert
-- Launched and terminated my first EC2 instance (t3.micro)
-- Learned: what an AMI, instance type, key pair, and security group actually do
+- Created AWS account on AWS Console, set up billing/budget alert
 - Created this GitHub repo to track progress
+- Created AWS account on AWS Skill Builder and Started AWS Cloud Practioner Essentials Course
 
 ### Day 2 — 3rd July 2026
 - Continued AWS Cloud Practitioner Essentials, Module 1 (Introduction to the cloud)
@@ -39,6 +38,11 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Learned about How to provison AWS resources, also learned about 3 ways we can call AWS APIs and these were AWS Management Console, AWS CLI and AWS SDK.
 
 ### Day 6 - 7th July 2026
+- Completed Lesson 4 and 5
+- Learned about Launching an AWS instance and got to know about AMI and other configurations,Launched and terminated my first EC2 instance(t3.micro) through AWS Management Console
+- I also Learned about Amazon EC2 Pricing, Purchase Options and Cost optimization.
+
+### Day 7 - 8th July 2026
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
