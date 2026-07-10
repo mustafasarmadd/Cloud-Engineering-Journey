@@ -30,6 +30,8 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Started Module 2 - Compute in the cloud
 - Completed Lesson 1
 - Learned about how EC2 Instance is created and it's benefits
+- Taking Extra Time in Every Lesson and Every Topic inside it and covering every little thing to build deep understanding rather than moving forward and rushing to complete.
+- Making notes of Everything that I am learning so that I can recap later on. If anything is unclear, I try to understand it by taking much time and using other resources for clearing things up. 
 
 ### Day 5 - 6th July 2026
 - Continuing from where I left off
@@ -56,6 +58,13 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 ### Day 9 - 10th July 2026
 - Completed Lesson 8 (Messaging and Queuing)
-- Learned 
+- Learned about AWS EventBridge, how it works and how it helps.
+- Learned about AWS SQS, and AWS SNS. Also Learned how both services help in communication.
+- Completed Assessment.
+- Completed Module 2.
+
+- ### Day 10 - 11th July 2026
+- Started Module 3.
+- 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
