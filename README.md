@@ -49,6 +49,13 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Learned about Auto Scaling and how to configure it.
 
 ### Day 8 - 9th July 2026
-- 
+- Completed Lesson 7 (Directing Traffic with Elastic Load Balancing)
+- Learned Load Balancing, Learned about ELB and it's benefits and how it distributes traffic on AWS using different routing methods.
+- Learned How EC2 Auto Scaling and ELB work together in AWS, How they both Increase Scalibility and Obtimize Performance.
+- Learned different Routing Methods and how they distribute Traffic on AWS.
+
+### Day 9 - 10th July 2026
+- Completed Lesson 8 (Messaging and Queuing)
+- Learned 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
