@@ -65,6 +65,17 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 - ### Day 10 - 11th July 2026
 - Started Module 3.
+- Completed Lesson 1 and 2.
+- Learned about Serverless Computing, Un-managed, Managed, and Fully-managed services and how they serve clients and also their benefits, Also got to know the responsibilies of Customer and AWS under these service types.
+- Learned about AWS Lambda, how it works and it's use cases.
+- Build my first Lambda function.
+- Built My first serverless pipeline: SQS queue triggering a Lambda function
+- Configured queue, execution role, and event source mapping
+- Verified execution through CloudWatch Logs
+- Learned: Lambda log streams = one per execution environment, not per message
+- Also created a proper IAM user with AdministratorAccess and stopped using AWS root login for daily work.
+
+### Day 11 - 12th July 2026
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
