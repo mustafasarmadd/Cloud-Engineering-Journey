@@ -74,11 +74,10 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Built My first serverless pipeline: SQS queue triggering a Lambda function
 - Configured queue, execution role, and event source mapping
 - Verified execution through CloudWatch Logs
-- Learned: Lambda log streams = one per execution environment, not per message
-- Also created a proper IAM user with AdministratorAccess and stopped using AWS root login for daily work.
+- Also created a proper IAM user with Administrator Access and stopped using AWS root login for daily work.
 
 ### Day 12 - 13th July 2026
-- Rebuilt the SQS → Lambda → CloudWatch pipeline entirely from memory, no tutorial — worked correctly first try
+- Rebuilt the SQS → Lambda → CloudWatch pipeline entirely from memory, no tutorial, worked correctly first try
 - Learned what "provisioned mode" is on event source mappings (manually reserved polling capacity vs default auto-scaling). not needed at this stage.
 - (partial day — anxious/low-focus for most of it, worked the last hour)
 
