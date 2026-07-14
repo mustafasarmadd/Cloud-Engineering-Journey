@@ -85,7 +85,8 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Completed lesson 3.
 - Learned about Containers and Orchestration.
 - Learned about Amazon ECS, Amazon EKS, Amazon ECR and Amazon Fargate.
-- Learned about How these Services work together. Firstly, Uploading Container image to ECR, then choose an orchestration service based on your needs like ECS or EKS. Lastly, Select which compute platform to run your container like EC2 or Fargate.
+- Learned why we need to use containers and why we need to orchestrate containers.
+- Learned about How these Services work together. Firstly, Uploading Container image to ECR, then choose an orchestration service based on your needs like ECS or EKS. Lastly, Select which compute platform to run your container: EC2 or Fargate.
 - Learned about every term and the whole process in detail.
 
 ### Day 14 - 15th July 2026
