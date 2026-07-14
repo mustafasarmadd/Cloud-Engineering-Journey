@@ -82,6 +82,13 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - (partial day — anxious/low-focus for most of it, worked the last hour)
 
 ### Day 13 - 14th July 2026
+- Completed lesson 3.
+- Learned about Containers and Orchestration.
+- Learned about Amazon ECS, Amazon EKS, Amazon ECR and Amazon Fargate.
+- Learned about How these Services work together. Firstly, Uploading Container image to ECR, then choose an orchestration service based on your needs like ECS or EKS. Lastly, Select which compute platform to run your container like EC2 or Fargate.
+- Learned about every term and the whole process in detail.
+
+### Day 14 - 15th July 2026
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
