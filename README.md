@@ -90,6 +90,12 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Learned about every term and the whole process in detail.
 
 ### Day 14 - 15th July 2026
+- Completed lesson 4.
+- Learned about Amazon Beanstalk, AWS Batch, Amazon Lightsail, and Amazon Outpost along with their Special use cases.
+- Completed Assessment.
+- Completed Module 3.
+
+### Day 15 - 16th July 2026
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
