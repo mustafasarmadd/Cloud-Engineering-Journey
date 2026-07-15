@@ -96,7 +96,9 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Completed Module 3.
 - Recap of 3rd Module:
 - This module gave me a practical understanding of AWS compute services, so I can choose the right tools for my applications or client's applications.
-- I learned when to use fully managed options like Lambda or Fargate, and when full control with Amazon EC2 made sense. I explored how containers solve deployment consistency issues and how AWS services, like Amazon ECS and Amazon EKS, simplify managing and scaling containerized applications. I also discovered services like Elastic Beanstalk, AWS Batch, Lightsail, and Outposts, and how each supported specific use cases, from basic web hosting to large-scale batch processing or hybrid cloud environments.
+- I learned when to use fully managed options like Lambda or Fargate, and when full control with Amazon EC2 made sense.
+- I explored how containers solve deployment consistency issues and how AWS services, like Amazon ECS and Amazon EKS, simplify managing and scaling containerized applications.
+- I also discovered services like Elastic Beanstalk, AWS Batch, Lightsail, and Outposts, and how each supported specific use cases, from basic web hosting to large-scale batch processing or hybrid cloud environments.
 
 ### Day 15 - 16th July 2026
 - 
