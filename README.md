@@ -25,6 +25,10 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Completed Module 1 of AWS Cloud Practitioner Essentials.
 - Took extra time to build deep understanding rather than rushing through
 - Home wifi was unreliable this week, but kept showing up daily anyway
+- Recap of 1st Module:
+- I learned fundamental concepts of cloud computing.
+- I explored the definition and benefits of the cloud, and I was introduced to AWS Global Infrastructure.
+- I also explored the AWS Shared Responsibility Model to clarify the division of responsibilities between AWS and customers.
 
 ### Day 4 - 5th July 2026
 - Started Module 2 - Compute in the cloud
@@ -62,6 +66,10 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Learned about AWS SQS, and AWS SNS. Also Learned how both services help in communication.
 - Completed Assessment.
 - Completed Module 2.
+- Recap of 2nd Module:
+- I learned how Amazon EC2 and cloud resources help scale applications.
+- I gained knowledge of EC2 instance types, pricing options, and how to choose the best instance types for client's unique business needs.
+- I also became familiar with using AWS tools and services like Elastic Load Balancing, Amazon EC2 Auto Scaling, Amazon SQS, and Amazon SNS to manage traffic and communication.
 
 - ### Day 10 - 11th July 2026
 - Started Module 3.
@@ -101,6 +109,7 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - I also discovered services like Elastic Beanstalk, AWS Batch, Lightsail, and Outposts, and how each supported specific use cases, from basic web hosting to large-scale batch processing or hybrid cloud environments.
 
 ### Day 15 - 16th July 2026
+- Started Module 4.
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
