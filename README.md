@@ -117,6 +117,16 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Learned about designing highly available architecture and deploying multi-region and multi-AZ resources. 
 
 ### Day 16 - 17th July 2026
+- Completed Lesson 4.
+- Learned about Infrastructure and Automation, More about AWS CloudFormation.
+- Completed Assessment.
+- Completed Module 4.
+- Recap of 4th Module:
+- I learned more about the AWS Global Infrastructure. I learned about choosing a Region, the value of edge locations, and how to use services such as CloudFormation/Terraform to streamline and automate deployment.
+
+### Day 17 - 18th July 2026
+- Started Module 5.
 - 
-### Day 5 - 6th July 2026
+
+
 - Continued Module 2 from where I left off.
