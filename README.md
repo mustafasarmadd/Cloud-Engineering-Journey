@@ -110,6 +110,13 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 ### Day 15 - 16th July 2026
 - Started Module 4.
+- Completed lesson 1, 2, and 3.
+- Learned about going global with AWS infrastructure, How to choose AWS regions, AWS edge-locations.
+- Learned about Infrastructure as Code and CloudFormation, and Terraform. Also Key benifits of IAC on AWS.
+- Learned about Key configurations(Compliance, Proximity, Feature Availability, and Pricing) when choosing regions.
+- Learned about designing highly available architecture and deploying multi-region and multi-AZ resources. 
+
+### Day 16 - 17th July 2026
 - 
 ### Day 5 - 6th July 2026
 - Continued Module 2 from where I left off.
