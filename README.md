@@ -127,6 +127,3 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 ### Day 17 - 18th July 2026
 - Started Module 5.
 - 
-
-
-- Continued Module 2 from where I left off.
