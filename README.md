@@ -112,7 +112,7 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Started Module 4.
 - Completed lesson 1, 2, and 3.
 - Learned about going global with AWS infrastructure, How to choose AWS regions, AWS edge-locations.
-- Learned about Infrastructure as Code and CloudFormation, and Terraform. Also Key benifits of IAC on AWS.
+- Learned about concepts of Infrastructure as Code, CloudFormation, and Terraform. Also Key benifits of IAC on AWS.
 - Learned about Key configurations(Compliance, Proximity, Feature Availability, and Pricing) when choosing regions.
 - Learned about designing highly available architecture and deploying multi-region and multi-AZ resources. 
 
