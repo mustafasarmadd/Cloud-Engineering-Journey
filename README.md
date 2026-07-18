@@ -126,4 +126,18 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
 ### Day 17 - 18th July 2026
 - Started Module 5.
-- 
+- Completed Lesson 1.
+- Learned about Networking: It's components(Amazon VPC, Subnet), Also learned about Private Subnet and Public Subnet and How All are connected to each other.
+- Got to know about NAT Gateway and how it helps Private Subnet.
+- Understood Connections through Diagrams.
+- Other than Learning, I did hands-on practice on Linux.
+- Installed WSL2 (Ubuntu 26.04 LTS) on Windows, `wsl --install`
+- Updated Ubuntu, installed AWS CLI v2, authenticated via `aws configure` 
+  (verified with `aws sts get-caller-identity`)
+- Practiced CLI queries: `iam list-users`, `ec2 describe-instances`, 
+  `lambda list-functions`, `logs describe-log-groups`, `sqs list-queues`
+- Learned: CloudWatch log groups aren't auto-deleted with their source resource 
+  (e.g. Lambda) — found and cleaned up orphaned logs manually.
+
+  ### Day 18 - 19th July 2026
+  - 
