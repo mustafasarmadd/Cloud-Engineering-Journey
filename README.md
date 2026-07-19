@@ -128,7 +128,6 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Started Module 5.
 - Completed Lesson 1.
 - Learned about Networking: It's components(Amazon VPC, Subnet), Also learned about Private Subnet and Public Subnet and How All are connected to each other.
-- Got to know about NAT Gateway and how it helps Private Subnet.
 - Understood Connections through Diagrams.
 - Other than Learning, I did hands-on practice on Linux.
 - Installed WSL2 (Ubuntu 26.04 LTS) on Windows, `wsl --install`
@@ -139,5 +138,13 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 - Learned: CloudWatch log groups aren't auto-deleted with their source resource 
   (e.g. Lambda) — found and cleaned up orphaned logs manually.
 
-  ### Day 18 - 19th July 2026
-  - 
+ ### Day 18 - 19th July 2026
+ - Completed Lesson 2 and 3.
+ - Learned More and in Detail about VPC, and Subnets. Also Learned, we Gateway to connect to our AWS resources.
+ - Learned about Internet Gateway, Virtual Private Gateway.
+ - Learned about AWS Client VPN, AWS Site-to-Site VPN, AWS PrivateLink, AWS Direct Connect. Their benefits and uses.
+ - Learned about Additional Gateway Services: AWS Transit Gateway, AWS NAT Gateway, AWS API Gateway.
+
+ ### Day 19  - 20th July 2026
+ - 
+  
