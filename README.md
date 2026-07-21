@@ -151,5 +151,12 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
  - Learned about Custom and Default Rules of NACL and Security Groups and Also their stateless and stateful property.
 
  ### Day 20  - 21th July 2026
- - 
+ - Completed Lesson 5.
+ - Created a VPC using AWS Console, created 4 subnets.
+ - I Created a VPC, 4 subnets: 2 private subnets and 2 public subnets, created internet gateway and routing table and associated them      with our public subnets to allow them to get traffic from internet through internet gateway.
+ - Understood every step deeply and got every point.
+
+ ### Day 21  - 22th July 2026
+ -  
+ 
   
