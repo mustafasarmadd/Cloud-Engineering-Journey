@@ -147,8 +147,8 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
 
  ### Day 19  - 20th July 2026
  - Completed Lesson 4
- - Learned about Network ACL and Security Group and how they control traffic.
- - Learned about Custom and Default Configurations of NACL and Security Groups and Also their stateless and stateful property.
+ - Learned about Network ACL and Security Group and how they control Network traffic and also about their security rules.
+ - Learned about Custom and Default Rules of NACL and Security Groups and Also their stateless and stateful property.
 
  ### Day 20  - 21th July 2026
  - 
