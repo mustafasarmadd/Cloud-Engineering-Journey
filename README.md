@@ -146,5 +146,10 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
  - Learned about Additional Gateway Services: AWS Transit Gateway, AWS NAT Gateway, AWS API Gateway.
 
  ### Day 19  - 20th July 2026
+ - Completed Lesson 4
+ - Learned about Network ACL and Security Group and how they control traffic.
+ - Learned about Custom and Default Configurations of NACL and Security Groups and Also their stateless and stateful property.
+
+ ### Day 20  - 21th July 2026
  - 
   
