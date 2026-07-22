@@ -157,6 +157,11 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
  - Understood every step deeply and got every point.
 
  ### Day 21  - 22th July 2026
- -  
- 
-  
+ - Completed Lesson 6.
+ - Learned about AWS Global Networking.
+ - Learned about AWS Route 53, AWS CloudFront and How these both Services work Independently and Also how these both work together to provide availibility and scalibility.
+ - Also learned about AWS Global Accelerator.
+ - Learned about their use cases.
+
+ ### Day 22  - 23th July 2026
+ - 
