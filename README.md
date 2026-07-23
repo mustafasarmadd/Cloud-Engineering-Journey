@@ -174,6 +174,8 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  -  Completed Module 5.
  -  Recap of 5th Module:
  -  In this networking module, I identified core networking components and how they connect in the AWS Cloud. I covered the basics of a VPC, the way that we isolate our workload in AWS, gateways, network ACLs, and security groups. I also reviewed ways to connect to AWS through a VPN and Direct Connect, secure connections that are either encrypted over the public internet or exclusive connections used by me and me alone.
- -  I also learned about AWS edge locations, Route 53 for DNS, and CloudFront to cache content closer to consumers.
- 
+ -  I also learned about AWS edge locations, Route 53 for DNS, and CloudFront to cache content closer to consumers. 
  -  Started Module 6.
+
+ ### Day 23  - 24th July 2026
+ - 
