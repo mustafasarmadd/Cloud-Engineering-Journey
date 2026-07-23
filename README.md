@@ -165,4 +165,15 @@ Following a structured 6-month roadmap: AWS fundamentals → Linux/Git → hands
  - Learned about their use cases.
 
  ### Day 22  - 23th July 2026
- - 
+ - Completed Lesson 7.
+ - Learned about Cloud in Real Life, Use cases of Real Life.
+ - Learned about, when to use the VPN and when to use the AWS Direct Connect and when to use both along with it's use case like using VPN
+as failover of Direct Connect. Then, Direct Connect as failover of Direct Connect and how company can use Multiple Direct Connects to increase the bandwidth.
+ -  Learned a real world example of a company that needs to deliver content to several different regions globally using VPC, Subnets, Route 53, amd CloudFront.
+ -  Completed Assessment of 5th Module.
+ -  Completed Module 5.
+ -  Recap of 5th Module:
+ -  In this networking module, I identified core networking components and how they connect in the AWS Cloud. I covered the basics of a VPC, the way that we isolate our workload in AWS, gateways, network ACLs, and security groups. I also reviewed ways to connect to AWS through a VPN and Direct Connect, secure connections that are either encrypted over the public internet or exclusive connections used by me and me alone.
+ -  I also learned about AWS edge locations, Route 53 for DNS, and CloudFront to cache content closer to consumers.
+ 
+ -  Started Module 6.
