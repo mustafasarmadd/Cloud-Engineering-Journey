@@ -178,4 +178,8 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  -  Started Module 6.
 
  ### Day 23  - 24th July 2026
+ - Completed Lesson 1.
+ - Learned about Block Storage Services, Object Storage Services, and File Storage Service. Also got familiar with their benefits and uses.
+
+ ### Day 24  - 25th July 2026
  - 
