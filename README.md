@@ -182,4 +182,10 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Learned about Block Storage Services, Object Storage Services, and File Storage Service. Also got familiar with their benefits and uses.
 
  ### Day 24  - 25th July 2026
+ - Completed Lesson 2 and 3.
+ - Learned about EC2 isntance store and Amazon Elastic Block Store(EBS). Learned about their use cases and benefits.
+ - Learned about Amazon EBS data lifecycle, EBS snapshots and how they work along with instances and also understood it's benefits.
+ - Learned about Data lifecycle manager, learned how we can use Data Lifecycle Manager to create custom EBS Snapshots policies.
+
+ ### Day 25  - 26th July 2026
  - 
