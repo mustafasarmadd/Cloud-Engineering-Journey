@@ -188,4 +188,10 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Learned about Data lifecycle manager, learned how we can use Data Lifecycle Manager to create custom EBS Snapshots policies.
 
  ### Day 25  - 26th July 2026
+ - Completed Lesson 4 and 5.
+ - Learned about Amazon S3(S3 objects and S3 buckets), How to secure data in Amazon S3, Amazon S3 audit logs, understood it's benefits.
+ - Also learned about it's security, and privacy management like bucket policies, identity-based policies, and encryption policies.
+ - Learned about Amazon S3 classes, S3 lifecycle, and it's use cases.
+
+ ### Day 26  - 27th July 2026
  - 
