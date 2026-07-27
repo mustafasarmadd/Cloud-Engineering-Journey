@@ -194,4 +194,9 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Learned about Amazon S3 classes, S3 lifecycle, and it's use cases.
 
  ### Day 26  - 27th July 2026
+ - Completed Lesson 6.
+ - Created an Amazon S3 Bucket, created a folder inside it, then created an object inside it and then uploaded a file and whole folder on it from local computer storage.
+ - Then, I checked configurations of bucket, and object, like networking, permission and all and I got familiar with them
+
+ ### Day 27  - 28th July 2026
  - 
