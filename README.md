@@ -199,4 +199,12 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Then, I checked configurations of bucket, and object, like security, networking, permission, lifecycle policies and all other, I got familiar with them.
 
  ### Day 27  - 28th July 2026
+ - Completed Lesson 7 and 8.
+ - Learned about Amazon EFS, it's benefits and use cases.
+ - Understood distinction between Amazon EBS and Amazon EFS.
+ - Learned about Amazon EFS storage classes, Amazon EFS data lifecycle and it's policies.
+ - Learned about Amazon FSx, it's benefits and use cases.
+ - Learned about Amazon FSx file systems and their use cases.
+
+ ### Day 28  - 29th July 2026
  - 
