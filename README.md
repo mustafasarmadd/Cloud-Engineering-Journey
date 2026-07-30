@@ -207,4 +207,21 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Learned about Amazon FSx file systems and their use cases.
 
  ### Day 28  - 29th July 2026
+ - Completed Lesson 9 and 10.
+ - Learned about AWS storage gateways, it's benefits.
+ - Learned about Gateway types: S3 File Gateway, Volume Gateway, and Tape Gateway.
+ - Learned about AWS Elastic Disaster Recovery, it's benefits and use cases.
+
+ ### Day 29  - 30th July 2026
+ - Understood Cloud in Real Life; understood Comparison of Storage Services along with their real life use cases.
+ - Learned when to use Amazon S3, Amazon EBS, and Amazon EFS in real life.
+ - Completed Assessment.
+ - Completed Module 6.
+ - Recap of 6th Module:
+ - I learned about the diverse storage options available in AWS, starting with block storage services like Amazon EC2 Instance Store and Amazon EBS. I learned how Amazon EBS provides persistent block storage volumes for EC2 instances, while EC2 instance store offers temporary block-level storage. I learned how to use EBS snapshots and AWS Data Lifecycle Manager for automated backup management and data protection.
+ - Then, I examined Amazon S3, a highly scalable object storage service that serves as a foundation for many cloud storage needs. Then, I delved into file storage solutions, including Amazon Elastic File System (Amazon EFS) for Linux-based workloads and Amazon FSx for Windows, Lustre, OpenZFS, and NetAPP ONTAP file systems.
+ - Finally, I learned about AWS Storage Gateway, which bridges on-premises environments with AWS storage services to enable hybrid cloud storage architectures.
+ - Started Module 7.
+
+ ### Day 30  - 31th July 2026
  - 
