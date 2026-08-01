@@ -223,10 +223,15 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Finally, I learned about AWS Storage Gateway, which bridges on-premises environments with AWS storage services to enable hybrid cloud storage architectures.
  - Started Module 7.
 
- ### Day 30  - 31th July 2026
+ ### Day 30  - 31st July 2026
  - Completed Lesson 1
  - Learned about Introduction to Databases.
  - I was so busy so couldn't learn more.
 
  ### Day 31  - 1st August 2026
+ - Completed Lesson 2.
+ - Learned about Relational Databases.
+ - Learned about Amazon Relational Database Service(Amazon RDS), Amazon Aurora, along with their use cases and benefits.
+
+ ### Day 32  - 2nd August 2026
  - 
