@@ -224,4 +224,9 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Started Module 7.
 
  ### Day 30  - 31th July 2026
+ - Completed Lesson 1
+ - Learned about Introduction to Databases.
+ - I was so busy so couldn't learn more.
+
+ ### Day 31  - 1st August 2026
  - 
