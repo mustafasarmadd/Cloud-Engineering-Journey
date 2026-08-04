@@ -234,4 +234,16 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Learned about Amazon Relational Database Service(Amazon RDS), Amazon Aurora, along with their use cases and benefits.
 
  ### Day 32  - 2nd August 2026
+ - Completed Lesson 3.
+ - Learned NoSQL(Non-relational) Database.
+ - Learned about Amazon DynamoDB Service, it's use cases and benefits.
+
+ ### Day 33  - 3rd August 2026
+ - Completed Lesson 4.
+ - Created an Amazon RDS database instance by using the AWS Management Console.
+ - Queried an Amazon RDS for MySQL database to create a table with values.
+ - Created a DynamoDB table and added items to it by using the console.
+ - Scanned a DynamoDB table by using the console.
+
+ ### Day 34  - 4th August 2026
  - 
