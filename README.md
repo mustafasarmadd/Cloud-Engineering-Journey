@@ -244,7 +244,7 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Queried an Amazon RDS for MySQL database to create a table with values.
  - Created a DynamoDB table and added items to it by using the console.
  - Scanned a DynamoDB table by using the console.
-
+A
  ### Day 34  - 4th August 2026
  - Completed Lesson 5.
  - Learned about In-memory caching Term and services.
@@ -252,4 +252,11 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
 
  ### Day 35  - 5th August 2026
  - Completed Lesson 6.
- - Learned about 
+ - Learned about Additional Database Services like, Amazon DocumentDB, Amazon Neptune, Amazon Managed Blockchain(AMB), and Amazon Backup. Their use cases and benefits.
+ - I also learned that we can use Database Accelerator options that can used in several unique scenarios for making database services faster. 
+
+ ### Day 36  - 6th August 2026
+ - Completed Assessment
+ - Completed Module 7.
+ - Recap of 7th Module:
+ - 
