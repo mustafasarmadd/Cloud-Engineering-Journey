@@ -246,4 +246,10 @@ as failover of Direct Connect. Then, Direct Connect as failover of Direct Connec
  - Scanned a DynamoDB table by using the console.
 
  ### Day 34  - 4th August 2026
- - 
+ - Completed Lesson 5.
+ - Learned about In-memory caching Term and services.
+ - Learned about Amazon ElastiCache, it's use cases, and benefits.
+
+ ### Day 35  - 5th August 2026
+ - Completed Lesson 6.
+ - Learned about 
